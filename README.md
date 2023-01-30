@@ -34,4 +34,7 @@ Here are my solutions to Advent of Code 2022:
 
 :white_check_mark: - started, not completed
 
-There is one notebook per day
+There is one notebook per day in /notebooks, a corresponding .txt file for the input data of the puzzle, and sometimes a test one for testing the code, in /data
+On Day 5 I manually rewrote the input data in the /data folder into a format that was easier to work with, so there are two separate resulting files.
+
+NOTE: my notebooks are messy and the solutions aren't efficient (may be slow to get the answer, or have lots of duplication), or even well commented! In most cases I would just get an answer and leave it that.
