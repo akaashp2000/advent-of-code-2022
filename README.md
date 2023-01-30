@@ -31,6 +31,7 @@ Here are my solutions to Advent of Code 2022:
 |25   |   |   |
 
 :heavy_check_mark: - completed
+
 :white_check_mark: - started, not completed
 
 There is one notebook per day
