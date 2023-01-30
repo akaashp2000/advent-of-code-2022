@@ -21,7 +21,7 @@ Here are my solutions to Advent of Code 2022:
 |15   |:heavy_check_mark:   |:white_check_mark:   |
 |16   |:white_check_mark:   |   |
 |17   |   |   |
-|18   |:heavy_check_mark:   |   |
+|18   |:heavy_check_mark:   |:white_check_mark:   |
 |19   |   |   |
 |20   |   |   |
 |21   |:heavy_check_mark:   |:heavy_check_mark:   |
