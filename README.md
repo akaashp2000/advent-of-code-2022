@@ -18,8 +18,8 @@ Here are my solutions to Advent of Code 2022:
 |12   |:heavy_check_mark:   |:heavy_check_mark:   |
 |13   |:heavy_check_mark:   |:heavy_check_mark:   |
 |14   |:heavy_check_mark:   |:heavy_check_mark:   |
-|15   |:heavy_check_mark:   |   |
-|16   |   |   |
+|15   |:heavy_check_mark:   |:white_check_mark:   |
+|16   |:white_check_mark:   |   |
 |17   |   |   |
 |18   |:heavy_check_mark:   |   |
 |19   |   |   |
@@ -29,3 +29,8 @@ Here are my solutions to Advent of Code 2022:
 |23   |   |   |
 |24   |   |   |
 |25   |   |   |
+
+:heavy_check_mark: - completed
+:white_check_mark: - started, not completed
+
+There is one notebook per day
