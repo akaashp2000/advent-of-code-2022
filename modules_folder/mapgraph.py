@@ -13,7 +13,7 @@ class MapGraph:
         layer = 0
         while end not in visited:
 
-            layers[layer+1] = []
+            layers[layer + 1] = []
 
             for vertex in layers[layer]:
                 for neighbour in [edge[1] for edge in self.edges[vertex]]:
@@ -27,11 +27,11 @@ class MapGraph:
 
     def shortest_distance_multiple(self, start, ends):
         visited = [start]
-        
+
         layers = {0: [start]}
         layer = 0
         while True:
-            layers[layer+1] = []
+            layers[layer + 1] = []
 
             for vertex in layers[layer]:
                 for neighbour in [edge[1] for edge in self.edges[vertex]]:
