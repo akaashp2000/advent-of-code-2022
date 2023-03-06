@@ -27,7 +27,6 @@ class MapGraph:
 
     def shortest_distance_multiple(self, start, ends):
         visited = [start]
-        distances = {end: None for end in ends}
         
         layers = {0: [start]}
         layer = 0
